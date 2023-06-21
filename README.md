@@ -11,3 +11,6 @@ INSTALL: python 3.10.5 install numpy install pygame
 
 # Conclusion 
 this happy game and game you happy this game ricreated in py :)
+
+# can it be used on mobile?
+Absolutely! you can use by installing pydroid 3 go to terminal and pip install numpy and then install the project on mobile do these procedures!
