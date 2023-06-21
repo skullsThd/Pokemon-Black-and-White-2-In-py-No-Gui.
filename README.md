@@ -29,6 +29,6 @@ Absolutely! you can use by installing pydroid 3 go to terminal and pip install n
 
 # trovate Download e cercate Skullthd e il progetto scaricato ora vi apre un folder e aprite solo file .py
 
-4* ![Descrizione dello screenshot](screenshot/screen4.jpg)
+4 * ![Descrizione dello screenshot](screenshot/screen4.jpg)
 
 
