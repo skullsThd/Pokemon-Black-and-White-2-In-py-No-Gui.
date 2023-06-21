@@ -15,20 +15,20 @@ this happy game and game you happy this game ricreated in py :)
 # can it be used on mobile?
 Absolutely! you can use by installing pydroid 3 go to terminal and pip install numpy and then install the project on mobile do these procedures!
 # Cliccate sul folder
-1 * ![Descrizione dello screenshot](screenshot/screen1.jpg)
+
+![Descrizione dello screenshot](screenshot/screen1.jpg)
 
 # clicca open
-2 * ![Descrizione dello screenshot](screenshot/screen2.jpg)
+![Descrizione dello screenshot](screenshot/screen2.jpg)
 
 
 
 # Andate su internal Storage 
-3 * ![Descrizione dello screenshot](screenshot/screen3.jpg)
+![Descrizione dello screenshot](screenshot/screen3.jpg)
 
 
 
 # trovate Download e cercate Skullthd e il progetto scaricato ora vi apre un folder e aprite solo file .py
-
-4 * ![Descrizione dello screenshot](screenshot/screen4.jpg)
+ ![Descrizione dello screenshot](screenshot/screen4.jpg)
 
 
